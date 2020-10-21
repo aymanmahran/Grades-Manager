@@ -1,0 +1,2 @@
+Summary for /www/javadecompilers/app/public/data/26.09.18/0df30a9b95a6015d02faa254cd1c7c56/GradesManager.jar
+Decompiled with CFR 0_132
